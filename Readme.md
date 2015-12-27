@@ -1,3 +1,5 @@
+#Read me
+
 The data set for this assignment was derived from data gathered for the "Human Activity Recognition Using Smartphones Dataset" Version 1.0. More information about this project can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 The original data were downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
@@ -12,4 +14,4 @@ url <- "https://s3.amazonaws.com/coursera-uploads/user-5e8e5fa934a60edd37864d40/
 
 tidydata <- read.table(url, header = TRUE, sep = "")
 
-See the Codebook () for more information on the variables in the tidy data set.
+See the Codebook (https://github.com/wimneel/Coursera_Assignment3/blob/master/Codebook.md) for more information on the variables in the tidy data set.
