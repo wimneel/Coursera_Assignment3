@@ -11,3 +11,5 @@ To read this file back into R, use the following code:
 url <- "https://s3.amazonaws.com/coursera-uploads/user-5e8e5fa934a60edd37864d40/975119/asst-3/7b69ffe0acc411e5877d19bf82962bf3.txt"
 
 tidydata <- read.table(url, header = TRUE, sep = "")
+
+See the Codebook () for more information on the variables in the tidy data set.
