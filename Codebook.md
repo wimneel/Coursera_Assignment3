@@ -1,6 +1,6 @@
 # Codebook
 
-##Background
+## Background
 
 The "Human Activity Recognition Using Smartphones" experiment was carried out with 30 volunteers, each performing six types of activities (walking, walking upstairs, walking downstairs, sitting, standing and laying) wearing a Samsung Galaxy S II smartphone on the waist. A large number of measurements by the embedded accelerometer and gyroscope were recorded. The complete list of variables can be found in the file features-info.txt (https://github.com/wimneel/Coursera_Assignment3/blob/master/features_info.txt).
 

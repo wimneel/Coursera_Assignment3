@@ -1,4 +1,4 @@
-#Read me
+# Read me
 
 The data set for this assignment was derived from data gathered for the "Human Activity Recognition Using Smartphones Dataset" Version 1.0. More information about this project can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
