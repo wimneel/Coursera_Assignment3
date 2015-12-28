@@ -27,41 +27,41 @@ activity - six different activities:
 	
 The 66 different features either measure time (prefix "t") or frequency (prefix "f"), using either the accelerometer ("Acc") or the gyroscope ("Gyro")
 
-tBodyAcc.mean.X - mean time body accelerator along the x-axis
+tBodyAcc.mean.X - mean time body accelerometer along the x-axis
 
-tBodyAcc.mean.Y - mean time body accelerator along the y-axis
+tBodyAcc.mean.Y - mean time body accelerometer along the y-axis
 
-tBodyAcc.mean.Z - mean time body accelerator along the x-axis
+tBodyAcc.mean.Z - mean time body accelerometer along the x-axis
 
-tBodyAcc.std.X - standard deviation of time body accelerator along the x-axis
+tBodyAcc.std.X - standard deviation of time body accelerometer along the x-axis
 
-tBodyAcc.std.Y - standard deviation of time body accelerator along the y-axis
+tBodyAcc.std.Y - standard deviation of time body accelerometer along the y-axis
 
-tBodyAcc.std.Z - standard deviation of time body accelerator along the z-axis
+tBodyAcc.std.Z - standard deviation of time body accelerometer along the z-axis
 
-tGravityAcc.mean.X - mean time gravity accelerator along the x-axis
+tGravityAcc.mean.X - mean time gravity accelerometer along the x-axis
 
-tGravityAcc.mean.Y - mean time gravity accelerator along the y-axis
+tGravityAcc.mean.Y - mean time gravity accelerometer along the y-axis
 
-tGravityAcc.mean.Z - mean time gravity accelerator along the z-axis
+tGravityAcc.mean.Z - mean time gravity accelerometer along the z-axis
 
-tGravityAcc.std.X - standard deviation of time gravity accelerator along the x-axis
+tGravityAcc.std.X - standard deviation of time gravity accelerometer along the x-axis
 
-tGravityAcc.std.Y - standard deviation of time gravity accelerator along the y-axis
+tGravityAcc.std.Y - standard deviation of time gravity accelerometer along the y-axis
 
-tGravityAcc.std.Z - standard deviation of time gravity accelerator along the z-axis
+tGravityAcc.std.Z - standard deviation of time gravity accelerometer along the z-axis
 
-tBodyAccJerk.mean.X - mean time body accelerator jerk along the x-axis
+tBodyAccJerk.mean.X - mean time body accelerometer jerk along the x-axis
 
-tBodyAccJerk.mean.Y - mean time body accelerator jerk along the y-axis
+tBodyAccJerk.mean.Y - mean time body accelerometer jerk along the y-axis
 
-tBodyAccJerk.mean.Z - mean time body accelerator jerk along the z-axis
+tBodyAccJerk.mean.Z - mean time body accelerometer jerk along the z-axis
 
-tBodyAccJerk.std.X - standard deviation of time body accelerator jerk along the x-axis
+tBodyAccJerk.std.X - standard deviation of time body accelerometer jerk along the x-axis
 
-tBodyAccJerk.std.Y - standard deviation of time body accelerator jerk along the y-axis
+tBodyAccJerk.std.Y - standard deviation of time body accelerometer jerk along the y-axis
 
-tBodyAccJerk.std.Z - standard deviation of time body accelerator jerk along the z-axis
+tBodyAccJerk.std.Z - standard deviation of time body accelerometer jerk along the z-axis
 
 tBodyGyro.mean.X - mean time body gyroscope along the x-axis
 
@@ -87,17 +87,17 @@ tBodyGyroJerk.std.Y - standard deviation of time body gyroscope jerk along the y
 
 tBodyGyroJerk.std.Z - standard deviation of time body gyroscope jerk along the z-axis
 
-tBodyAccMag.mean - mean time of body accelerator magnitude 
+tBodyAccMag.mean - mean time of body accelerometer magnitude 
 
-tBodyAccMag.std - standard deviation of time of body accelerator magnitude 
+tBodyAccMag.std - standard deviation of time of body accelerometer magnitude 
 
-tGravityAccMag.mean- mean time of gravity accelerator magnitude 
+tGravityAccMag.mean- mean time of gravity accelerometer magnitude 
 
-tGravityAccMag.std - standard deviation of time of gravity accelerator magnitude 
+tGravityAccMag.std - standard deviation of time of gravity accelerometer magnitude 
 
-tBodyAccJerkMag.mean - mean time of body accelerator jerk magnitude 
+tBodyAccJerkMag.mean - mean time of body accelerometer jerk magnitude 
 
-tBodyAccJerkMag.std - standard deviation of time of body accelerator jerk magnitude
+tBodyAccJerkMag.std - standard deviation of time of body accelerometer jerk magnitude
 
 tBodyGyroMag.mean - mean time of body gyroscope magnitude
 
@@ -107,29 +107,29 @@ tBodyGyroJerkMag.mean- mean time of body gyroscope jerk magnitude
 
 tBodyGyroJerkMag.std - standard deviation of time of body gyroscope jerk magnitude
 
-fBodyAcc.mean.X - mean frequency of body accelerator along the x-axis
+fBodyAcc.mean.X - mean frequency of body accelerometer along the x-axis
 
-fBodyAcc.mean.Y - mean frequency of body accelerator along the y-axis
+fBodyAcc.mean.Y - mean frequency of body accelerometer along the y-axis
 
-fBodyAcc.mean.Z - mean frequency of body accelerator along the z-axis
+fBodyAcc.mean.Z - mean frequency of body accelerometer along the z-axis
 
-fBodyAcc.std.X - standard frequency of body accelerator along the x-axis
+fBodyAcc.std.X - standard frequency of body accelerometer along the x-axis
 
-fBodyAcc.std.Y - standard frequency of body accelerator along the y-axis
+fBodyAcc.std.Y - standard frequency of body accelerometer along the y-axis
 
-fBodyAcc.std.Z - standard frequency of body accelerator along the z-axis
+fBodyAcc.std.Z - standard frequency of body accelerometer along the z-axis
 
-fBodyAccJerk.mean.X - mean frequency of body accelerator jerk along the x-axis
+fBodyAccJerk.mean.X - mean frequency of body accelerometer jerk along the x-axis
 
-fBodyAccJerk.mean.Y - mean frequency of body accelerator jerk along the y-axis
+fBodyAccJerk.mean.Y - mean frequency of body accelerometer jerk along the y-axis
 
-fBodyAccJerk.mean.Z - mean frequency of body accelerator jerk along the z-axis
+fBodyAccJerk.mean.Z - mean frequency of body accelerometer jerk along the z-axis
 
-fBodyAccJerk.std.X - standard deviation of frequency of body accelerator jerk along the x-axis
+fBodyAccJerk.std.X - standard deviation of frequency of body accelerometer jerk along the x-axis
 
-fBodyAccJerk.std.Y - standard deviation of frequency of body accelerator jerk along the y-axis
+fBodyAccJerk.std.Y - standard deviation of frequency of body accelerometer jerk along the y-axis
 
-fBodyAccJerk.std.Z - standard deviation of frequency of body accelerator jerk along the z-axis
+fBodyAccJerk.std.Z - standard deviation of frequency of body accelerometer jerk along the z-axis
 
 fBodyGyro.mean.X - mean frequency of body gyroscope along the x-axis
 
@@ -143,13 +143,13 @@ fBodyGyro.std.Y - standard deviation of frequency of body gyroscope along the y-
 
 fBodyGyro.std.Z - standard deviation of frequency of body gyroscope along the z-axis
 
-fBodyAccMag.mean - mean frequency of body accelerator magnitude
+fBodyAccMag.mean - mean frequency of body accelerometer magnitude
 
-fBodyAccMag.std - standard deviation of body accelerator magnitude
+fBodyAccMag.std - standard deviation of body accelerometer magnitude
 
-fBodyAccJerkMag.mean - mean frequency of body accelerator jerk magnitude
+fBodyAccJerkMag.mean - mean frequency of body accelerometer jerk magnitude
 
-fBodyAccJerkMag.std - standard deviation of frequency of body accelerator jerk magnitude
+fBodyAccJerkMag.std - standard deviation of frequency of body accelerometer jerk magnitude
 
 fBodyGyroMag.mean - mean frequency of body gyroscope magnitude
 
