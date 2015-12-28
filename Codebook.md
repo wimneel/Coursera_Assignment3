@@ -2,9 +2,9 @@
 
 ## Background
 
-The "Human Activity Recognition Using Smartphones" experiment was carried out with 30 volunteers, each performing six types of activities (walking, walking upstairs, walking downstairs, sitting, standing and laying) wearing a Samsung Galaxy S II smartphone on the waist. A large number of measurements by the embedded accelerometer and gyroscope were recorded. The complete list of variables can be found in the file features-info.txt (https://github.com/wimneel/Coursera_Assignment3/blob/master/features_info.txt).
+The "Human Activity Recognition Using Smartphones" experiment was carried out with 30 volunteers, each performing six types of activities (walking, walking upstairs, walking downstairs, sitting, standing and laying) wearing a Samsung Galaxy S II smartphone on the waist. A large number of measurements by the embedded accelerometer and gyroscope were recorded. More information on the complete list of variables can be found in the file features-info.txt (https://github.com/wimneel/Coursera_Assignment3/blob/master/features_info.txt).
 
-For this assignment only variables involving means and standard deviations were used (in practice, this was translated into variable names containing either "-means()" or "-std()". For these variables - 66 in number - the mean value was calculated for each of the 180 combinations of subject and activity (30 subjects, 6 activities)
+For this assignment only variables involving means and standard deviations were used. In practice, this was translated into variable names containing either "-means()" or "-std()". For these variables - 66 in number - the mean value was calculated for each of the 180 combinations of subject and activity (30 subjects, 6 activities)
 
 ## Variables
 The final data set contains the following 68 variables.
